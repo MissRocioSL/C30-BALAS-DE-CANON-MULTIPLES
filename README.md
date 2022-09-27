@@ -1,2 +1,2 @@
-# C30-BALAS-DE-CANON-MULTIPLES
-CLASE 30-BALAS DE CANON MÚLTIPLES
+# Actividad del alumno 1 - C30 1:4
+Juego invasión pirata
